@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="eq_empty_view">No earthquakes right now</string>
+    <string name="sort_by_time">Sort By Time</string>
+    <string name="sort_by_magnitude">Sort By Magnitude</string>
+
+    <string name="magnitude_format">%.2f</string>
+</resources>
